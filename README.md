@@ -1,2 +1,8 @@
 # stepik_autotest_course
-my scripts
+my scriptsREADME.mc
+:wq
+esc
+:wq
+esc
+quit
+
